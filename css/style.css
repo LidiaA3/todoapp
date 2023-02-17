@@ -93,7 +93,7 @@ nav {
     overflow-y: scroll;
 }
 
-.todo__item {
+.todo-item {
     accent-color: var(--color-turquoise);
 }
 
